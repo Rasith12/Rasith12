@@ -1,12 +1,7 @@
-## 📊 Data Analyst Skills
-
-### 🐍 Python & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📈 Data Analytics Tools
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🎓 Course Status
-**Data Analyst Course — Completed ✅**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" alt="Excel"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" alt="Power BI"/>
+</p>
