@@ -1,24 +1,32 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rasith</h1>
 <h3 align="center">Data Analysis</h3>
 
-### 🛠️ Tech Stack & Tools
+### 📊 Data Analyst Tech Stack
 
-<p>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=snowflake&logoColor=white" alt="SQL">
+<div align="left">
 
-  <!-- Data Visualization & BI -->
-  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <!-- Programming Languages -->
+  <p><strong>Languages & Querying</strong></p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="R" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
 
-  <!-- Libraries / Frameworks -->
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-%23000f0f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
+  <br><br>
+
+  <!-- Data Analysis & Visualization Tools -->
+  <p><strong>BI & Visualization Tools</strong></p><!--
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" alt="Power BI" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" height="40" alt="Tableau" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="40" height="40" alt="Excel" />
+
+  <br><br>
+
+  <!-- Python Libraries -->
+  <p><strong>Python Libraries</strong></p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="40" height="40" alt="Seaborn" />
+
+</div>
