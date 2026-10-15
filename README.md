@@ -5,3 +5,6 @@
   <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" alt="Excel"/>
   <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" alt="Power BI"/>
 </p>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="50" height="50"/>
+
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Microsoft Excel" width="50" height="50"/>
