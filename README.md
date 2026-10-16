@@ -46,6 +46,4 @@
   <h3>✨ Thanks for visiting my profile! ✨</h3>
   <p><i>"Data is the new oil, and analytics is the engine!"</i> 🚀</p>
   
-  <!-- Visitor Count -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
