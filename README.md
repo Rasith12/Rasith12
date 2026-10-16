@@ -12,3 +12,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
 </p>
+
+### 🎓 Education
+
+<p align="left">
+  <b>🎓 B.Sc. Computer Science</b> <br>
+  <i>🏛️ Manonmaniam Sundaranar University</i> <br>
+  📅 2023 – 2026 | 📍 Tamil Nadu, India <br>
+  
+  <br>
