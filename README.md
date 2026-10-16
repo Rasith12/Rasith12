@@ -20,3 +20,22 @@
   <i> Scott Christian Colleage Manonmaniam Sundaranar University</i> <br> Tamil Nadu, India |2023 – 2026 <br>
   
   <br>
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-rasith-993312377" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a> &nbsp;&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:rafeekrasith9@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail" />
+  </a> &nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/https://github.com/Rasith12" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  </a>
+</p>
