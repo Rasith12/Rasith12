@@ -16,8 +16,7 @@
 ### 🎓 Education
 
 <p align="left">
-  <b>🎓 B.Sc. Computer Science</b> <br>
-  <i>🏛️ Manonmaniam Sundaranar University</i> <br>
-  📅 2023 – 2026 | 📍 Tamil Nadu, India <br>
+  <b> B.Sc. Computer Science</b> <br>
+  <i>🏛️ Manonmaniam Sundaranar University</i> <br> 2023 – 2026 | 📍 Tamil Nadu, India <br>
   
   <br>
